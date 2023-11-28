@@ -33,4 +33,16 @@ A classificação final dos times reflete mais o desempenho das equipes como um 
 
 O gráfico de dispersão nos mostra que não há uma tendência clara entre a posição do time e o tempo do treinador mais longevo. Os pontos estão dispersos ao longo do gráfico, indicando que não há uma relação linear entre essas variáveis.
 
-## 
+## Gráfico da Classificação dos times
+<div align="center">
+  <img width="500" src="https://github.com/patriciadania/Projeto-Ada-Tech-Estatistica-no-futebol/assets/120285942/1065c84e-de01-4d83-b129-e047ba80b6f0"/><br>
+</div>
+
+## Gráfico posição do time x tempo do técnico
+<div align="center">
+  <img width="500" src="https://github.com/patriciadania/Projeto-Ada-Tech-Estatistica-no-futebol/assets/120285942/d31817e9-d7c8-46ce-ac6c-060864f64e9a"/><br>
+</div>
+
+
+
+
